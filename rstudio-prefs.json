@@ -1,0 +1,52 @@
+{
+    "panes": {
+        "quadrants": [
+            "Source",
+            "TabSet1",
+            "Console",
+            "TabSet2"
+        ],
+        "tabSet1": [
+            "History",
+            "Connections",
+            "Packages",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Environment",
+            "Files",
+            "Plots",
+            "Help",
+            "Build",
+            "VCS",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [
+            "Tutorial"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "initial_working_directory": "~/Desktop/R_Programming",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "rmd_preferred_template_path": "/Users/kittipos/Library/R/x86_64/4.1/library/thaipdf/rmarkdown/templates/thai-pdf-rmd-w-pre",
+    "default_project_location": "~/Desktop/R_Programming/quarto",
+    "editor_theme": "Dracula",
+    "jobs_tab_visibility": "shown",
+    "save_files_before_build": true,
+    "rainbow_parentheses": true,
+    "syntax_color_console": true,
+    "document_author": "kittipos sirivongrungson",
+    "python_type": "conda",
+    "python_version": "3.6.13",
+    "python_path": "~/Library/r-miniconda/envs/r-reticulate/bin/python",
+    "source_with_echo": true,
+    "emoji_skintone": "(Default)",
+    "font_size_points": 11,
+    "visual_markdown_editing_font_size_points": 12,
+    "highlight_r_function_calls": true,
+    "code_completion_delay": 200
+}
