@@ -48,5 +48,9 @@
     "font_size_points": 11,
     "visual_markdown_editing_font_size_points": 12,
     "highlight_r_function_calls": true,
-    "code_completion_delay": 200
+    "code_completion_delay": 200,
+    "default_encoding": "UTF-8",
+    "spelling_custom_dictionaries": [
+        "en_MED"
+    ]
 }
