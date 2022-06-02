@@ -7,13 +7,13 @@
             "TabSet2"
         ],
         "tabSet1": [
+            "Environment",
             "History",
             "Connections",
-            "Packages",
+            "Tutorial",
             "Presentation"
         ],
         "tabSet2": [
-            "Environment",
             "Files",
             "Plots",
             "Help",
@@ -23,7 +23,7 @@
             "Presentations"
         ],
         "hiddenTabSet": [
-            "Tutorial"
+            "Packages"
         ],
         "console_left_on_top": false,
         "console_right_on_top": true,
@@ -32,9 +32,8 @@
     "initial_working_directory": "~/Desktop/R_Programming",
     "pdf_previewer": "none",
     "posix_terminal_shell": "bash",
-    "rmd_preferred_template_path": "/Users/kittipos/Library/R/x86_64/4.1/library/thaipdf/rmarkdown/templates/thai-pdf-rmd-w-pre",
-    "default_project_location": "~/Desktop/R_Programming/quarto",
-    "editor_theme": "Dracula",
+    "rmd_preferred_template_path": "/Users/kittipos/my_teaching/r4sips-proj/r4sips-slides/renv/library/R-4.1/x86_64-apple-darwin17.0/xaringanthemer/rmarkdown/templates/xaringanthemer",
+    "default_project_location": "~/Desktop",
     "jobs_tab_visibility": "shown",
     "save_files_before_build": true,
     "rainbow_parentheses": true,
@@ -43,7 +42,6 @@
     "python_type": "conda",
     "python_version": "3.6.13",
     "python_path": "~/Library/r-miniconda/envs/r-reticulate/bin/python",
-    "source_with_echo": true,
     "emoji_skintone": "(Default)",
     "font_size_points": 11,
     "visual_markdown_editing_font_size_points": 12,
@@ -52,5 +50,7 @@
     "default_encoding": "UTF-8",
     "spelling_custom_dictionaries": [
         "en_MED"
-    ]
+    ],
+    "editor_theme": "Dracula",
+    "source_with_echo": true
 }

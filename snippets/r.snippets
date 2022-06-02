@@ -159,3 +159,11 @@ snippet global
 	# utils::globalVariables(c("var1"))
 	usethis::use_r("globals.R")
 	${0}
+	
+snippet navfile
+	rstudioapi::navigateToFile(here("${0}"))
+	
+snippet test
+	test_that("${1}", {
+		${0}
+	})
